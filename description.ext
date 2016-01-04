@@ -1,0 +1,43 @@
+class CfgSounds {
+	sounds[] = {};
+	class zomb0{
+		name = "zomb0";
+		sound[] = {"\sounds\zomb0.ogg", 1, 1};
+		titles[] = {};
+	};
+	class zomb1{
+		name = "zomb1";
+		sound[] = {"\sounds\zomb1.ogg", 1, 1};
+		titles[] = {};
+	};
+	class zomb2{
+		name = "zomb2";
+		sound[] = {"\sounds\zomb2.ogg", 1, 1};
+		titles[] = {};
+	};
+	class zomb3{
+		name = "zomb3";
+		sound[] = {"\sounds\zomb3.ogg", 1, 1};
+		titles[] = {};
+	};
+	class zomb4{
+		name = "zomb4";
+		sound[] = {"\sounds\zomb4.ogg", 1, 1};
+		titles[] = {};
+	};
+	class zomb5{
+		name = "zomb5";
+		sound[] = {"\sounds\zomb5.ogg", 1, 1};
+		titles[] = {};
+	};
+	class zomb6{
+		name = "zomb6";
+		sound[] = {"\sounds\zomb6.ogg", 1, 1};
+		titles[] = {};
+	};
+	class zomb7{
+		name = "zomb7";
+		sound[] = {"\sounds\zomb7.ogg", 1, 1};
+		titles[] = {};
+	};
+};
