@@ -3,10 +3,10 @@
 
 	//[] call BIS_fnc_animViewer;
 
-	call compilefinal preprocessFileLineNumbers "oo_infected.sqf";
+	call compile preprocessFileLineNumbers "oo_infected.sqf";
 	
-	private ["_group"];
-	_group = creategroup civilian;
+	private _group = creategroup civilian;
+	private _zombie = "";
 
 	{
 		if(side _x != west) then {
